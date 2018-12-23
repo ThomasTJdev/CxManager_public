@@ -1,8 +1,8 @@
 # Cx Manager - public
 
-A project management software combined with personal to-do lists and notebooks. Cx Manager is developed in [Nim](nim-lang.org).
+A project management software combined with personal to-do lists and notebooks. Cx Manager is developed in [Nim](https://nim-lang.org).
 
-Try the online version at [CxManager.live](cxmanager.live)
+Try the online version at [CxManager.live](https://cxmanager.live)
 
 Cx Manager is designed for managing multiple projects such as construction projects, software projects etc. But it does also contain multiple other features to enhance each project users daily work. This is done by including personal (or project specific) to-do lists and notebooks for minute of meetings and much more.
 
